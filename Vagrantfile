@@ -59,6 +59,7 @@ Vagrant.configure(2) do |config|
   # https://docs.vagrantup.com/v2/push/atlas.html for more information.
   config.push.define 'atlas' do |push|
     push.app = 'DanBarreto/twseleniumworkshop'
+    push.vcs = true
   end
 
   # Enable provisioning with a shell script. Additional provisioners such as
