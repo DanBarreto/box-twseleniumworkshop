@@ -22,4 +22,4 @@ This box contains:
 ## Useful commands (inside the virtual machine)
 `idea`: opens IntelliJ IDE (but locks the terminal)
 
-`selenium`: goes to the directory that contains the necessary code to ben run on the workshop
+`selenium`: goes to the directory that contains the necessary code to be run on the workshop
