@@ -7,8 +7,8 @@ This box contains:
 - Gradle
 
 ## Requirements
-- Vagrant
-- VirtualBox
+- [Vagrant] (https://www.vagrantup.com/downloads)
+- [VirtualBox] (https://www.virtualbox.org/wiki/Downloads)
 
 ..and **patience** :)
 
